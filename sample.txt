@@ -1,3 +1,3 @@
 Sample text.
 Edited the file on github
-Goobler gop
+Edited for merge conflict
